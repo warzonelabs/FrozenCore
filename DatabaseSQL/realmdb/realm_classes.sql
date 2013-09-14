@@ -1,0 +1,11 @@
+INSERT INTO `realm_classes` VALUES (1, 1, 0);
+INSERT INTO `realm_classes` VALUES (1, 2, 0);
+INSERT INTO `realm_classes` VALUES (1, 3, 0);
+INSERT INTO `realm_classes` VALUES (1, 4, 0);
+INSERT INTO `realm_classes` VALUES (1, 5, 0);
+INSERT INTO `realm_classes` VALUES (1, 6, 2);
+INSERT INTO `realm_classes` VALUES (1, 7, 0);
+INSERT INTO `realm_classes` VALUES (1, 8, 0);
+INSERT INTO `realm_classes` VALUES (1, 9, 0);
+INSERT INTO `realm_classes` VALUES (1, 10, 4);
+INSERT INTO `realm_classes` VALUES (1, 11, 0);

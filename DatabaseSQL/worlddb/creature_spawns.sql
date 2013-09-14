@@ -1,0 +1,1 @@
+INSERT INTO `creature_spawns` VALUES (1, 57754, 860, 1449.7, 3406.6, 171.092, 2.2868);
